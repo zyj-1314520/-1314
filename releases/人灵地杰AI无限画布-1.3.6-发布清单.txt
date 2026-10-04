@@ -1,8 +1,9 @@
 release=renling-canvas
 version=1.3.6
 file=renling-canvas-1.3.6-installer.exe
-size_bytes=179385793
-sha256=3B4F2722A93804033E23780508B8FFACF27400D7DD79BE67B1CD41015B23DF55
+size_bytes=179373520
+sha256=D926E576F1B6684D46DE25634C0D8FEC9382F5E76323E759FDF90B6737911FB1
 package_validation=PASS 18 / FAIL 0
+payload_files=89
 app_asar_sha256=40728FC258917E913079337CAA1534547FB27E268EB125455A5FB409A22E82F6
-excluded=user-data, SketchUp plugin source, .git metadata
+excluded=user-data, SketchUp plugin source, authorization service, development metadata
